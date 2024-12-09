@@ -1,68 +1,84 @@
-Divik Dalesh Shah
-Data Analytics | Business Analytics | Certified BA from LIBA
-  +918109391956
-  Shahdol, IN
-  divikdalesh.2611@gmail.com
-  http://www.linkedin.com/in/divikshah
-SUMMARY
-A certified analyst, skilled at deriving valuable insights from data sets using Python, MySQL, Excel and translating them into engaging visualizations and compelling stories using Tableau or Power BI. With strong problem-solving abilities, I am dedicated to offering accurate and actionable suggestions to aid informed decision-making.
+<!--Section 1: Introduce your self-->
+## ABOUT ME
 
-KEY SKILLS
-•	Data Analysis • Stakeholder Management • Machine Learning • Data Visualization
-•	Analytical Thinking • Communication • Story Telling • Adaptability • Problem Solving
+Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
-TECHNICAL SKILLS
-Tools/Languages: Python, SQL
-Visualization: PowerBI, Tableau
-Database/Libraries: MySQL, Pandas, NumPy, Matplotlib
-Microsoft Office: MS Excel (Advance), PowerPoint
 
-PROFESSIONAL CERTIFICATIONS
-Executive Post Graduate Program in Business Analytics LIBA Chennai [ May '23 - May '24 ]
+<!--Mention your top/relevant skills here - core and soft skills-->
+## WHAT I DO
 
-•	Course Modules:
-○	SQL and Python for Analytics | EDA & Data Visualization (PowerBI / Tableau)| Databases
-○	Introduction to Machine Learning | Machine Learning Techniques
-○	Customer Churn Case Study | IMDB Movie Case Study | Customer Segmentation Case Study
+*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
-PCAP - Certified Associate in Python Programming Link
+**- ✅ Data Analytics Consulting.**
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-KEY PROJECTS
-Supply Chain Performance Optimization Link
-•	Tools: DAX, Power Query, PowerBI.
-•	Objective: Enhance delivery reliability and customer satisfaction through data-driven insights.
-•	Calculated key performance indicators such as On Time Delivery %, In Full Delivery %, and OTIF %.
-•	Analyzed trends and patterns in customer, product, and order performance to identify and address supply chain inefficiencies.
+**- ✅ Staff Training & Development.**
+I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
-Market and Retail Analytics link
-•	Tools: Python, Tableau.
-•	Objective: Optimize inventory using pareto and market basket analysis.
-•	It involves analyzing customer purchase pattern, product performance, inventory management.
- 
-Consumer Goods Ad_hoc Insights Link
-•	Tools: MySQL, PowerBI
-•	Objective: Analyzing ad-hoc requests, crafting precise SQL queries to extract relevant insights.
-•	.Assisting the management team in gaining deeper insights into the business, enabling data-driven decisions to scale operations effectively.
 
-Hospitality Domain Analysis link
-•	Tools: DAX, Power Query, PowerBI.
-•	Objective: Leverage data driven insights to regain market share and revenue.
-•	Identified trends and pattern, created key performance indicators such as occupancy rates, ADR, RevPAR etc.
+<!--Section 2: List 3-4 key projects-->
+## MY PORTFOLIO 
 
-Customer Churn Prediction link
-•	Tools: Python, Excel
-•	Objective: Analyze customer data for predicting and reducing customer churn.
-•	Anomaly detection aids in spotting irregular patterns or outliers.
-•	Enhanced the accuracy from 30% to 80%.
+*A glimpse of some of the projects I've been working on.*
 
-PROFESSIONAL EXPERIENCE
-Technician
-Reliance Industries Limited [Mar '22 - Present] Shahdol, IN
-•	Collaborated with plant operations to assess both routine and emergency tasks, showcasing adept problem-solving skills
-•	Design reports, dashboards and visualization to accelerate decision timeline by 20%.
-•	Planning initiative and executing cost-saving opportunities that could achieve a 15-20% reduction in expenses without undermining operational vigor.
-•	Maintained and oversaw extensive databases on Excel, guaranteeing data accuracy, integrity, and accessibility through the establishment of data validation rules
-EDUCATION
-Bachelor of Technology
-Lovely Professional University [Jul '10 - Jun '14] Jalandhar, IN
-Electronics and Communication Engineering
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+![image](1 anietie etuk data analytics car project.jpeg)
+
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
+![image](2 anietie etuk data analytics sales project.jpg)
+
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
+![image](3 anietie etuk data analytics agro project.jpg)
+
+Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 816-763-7212</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>PH, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
+
+   
+
+
+
